@@ -25,7 +25,7 @@
 									<img src="img/home/slide-2.png" alt="Chicago">
 								</div>
 								<div class="carousel-item">
-									<img src="img/home/slide-3.png" alt="New York" >
+									<img src="img/home/slide-3.png" alt="New York">
 								</div>
 							</div>
 
