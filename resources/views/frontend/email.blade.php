@@ -74,7 +74,7 @@
 							<h3>Hóa đơn mua hàng</h3>							
 							<table class="table-bordered table-responsive">
 								<tr class="bold">
-									<td width="30%">Tên sản phẩm</td>
+									<td width="30%">Tên sản phẩm </td>
 									<td width="25%">Giá</td>
 									<td width="20%">Số lượng</td>
 									<td width="15%">Thành tiền</td>
